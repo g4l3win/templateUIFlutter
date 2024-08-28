@@ -5,7 +5,7 @@ void main() {
     home: new Pertemuan2(),
   ));
 }
-
+//kkkkk
 class Pertemuan2 extends StatelessWidget {
   // This widget is the root of your application.
   @override
@@ -96,6 +96,10 @@ class Pertemuan2 extends StatelessWidget {
                           ],
                         ),
                       ])),
+          new Padding(
+            padding: new EdgeInsets.symmetric(horizontal: 20.0),
+
+          )
             ],
           )),
     );
