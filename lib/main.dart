@@ -5,7 +5,7 @@ void main() {
     home: new Pertemuan2(),
   ));
 }
-//kkkkk
+//cek yang branch test
 class Pertemuan2 extends StatelessWidget {
   // This widget is the root of your application.
   @override
